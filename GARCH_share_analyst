@@ -1,0 +1,12 @@
+#preparation
+#shell
+
+#下载股票指数文件
+wget http：//labfile.oss.aliyuncs.com/courses/900/000001.csv
+
+
+#download R-packages (FinTS)
+wget http://labfile.oss.aliyuncs.com/courses/900/FinTS_0.4-5.tar.gz
+
+#install R-packages (FinTS)
+sudo R CMD INSTALL /home/shiyanlou/FinTS_0.4-5.tar.gz
