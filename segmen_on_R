@@ -1,4 +1,4 @@
-#1不适用函数方法
+#1不使用函数方法
 library("jiebaRD")
 library("jiebaR")
 process=worker()
